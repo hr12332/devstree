@@ -1,0 +1,134 @@
+body{
+    font-family: 'Roboto', sans-serif !important;
+}
+.logo_img{
+    margin: 30px -11% 0;
+}
+.banner_txt{
+    padding-top: 82px;
+}
+.banner_txt h1 {
+    font-size: 46px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}.banner_txt p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: #5D616F;
+}.banner_img {
+    position: relative;
+    top: -14%;
+}
+div {
+  margin-top: 37px;
+  padding-top: 15px;
+  font-size: 17px;
+  font-weight: 600;
+}
+.container text{
+color: #D86700;
+font-size: 30px;
+}
+h4 {
+  font-size: 30px;
+  font-weight: 150px !important;
+}
+#xyz{
+  display: flex;
+}
+#choose_container{
+  display: flex;
+  flex-direction: column;
+}
+span h1{
+  
+  left: 14.51%;
+  right: 51.46%;
+  top: 44.89%;
+  bottom: 47.73%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 36px;
+  letter-spacing: 0.01em;
+  color: #000000;
+
+}
+#choose{
+  margin-top: 100px;
+}
+#colum_half1{
+  margin: 20px;
+}
+#colum_half1 h3{
+  font-size: 50px;
+  font-weight: 700;
+  padding: 10px 20px;
+}
+#each_tick{
+  display: flex;
+  flex-direction: row;
+  padding: 5px 20px;
+}
+#each_tick p{
+  padding: 5px;
+  font-size: 18px;
+  font-weight: 600;
+}
+#colum_half2{
+  height: 662px;
+  width: 488px;
+}
+text{
+width: 757px;
+height: 60px;
+left: 341px;
+top: 61px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.01em;
+color: #05060A;
+}
+.section-heading{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 550;
+font-size: 20px;
+line-height: 180%;
+color: #05060A;
+}
+.icon-class{
+  margin-top: -15% !important;
+  padding: 22% !important;
+  color:#D86700;
+}
+.small-icon-class{
+  color:#D86700;
+}
+.map .row{
+ background-image:url('images/Vector.png');
+}
+.choose-us-list{
+font-size: 24px;
+line-height: 91px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+}
+.choose-heading{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 62px;
+line-height: 126%;
+margin-left: 33%;
+}
+
+
