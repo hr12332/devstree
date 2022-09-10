@@ -1,0 +1,22 @@
+#color{
+    background-color: red;
+}
+@media (min-width:992px){
+    .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 0 !important;
+        align-items: center;
+    }
+}
+.hed_cs li a:hover {
+    color: white !important;
+}
+.card{
+    background-color:rgb(29, 118, 208) !important;
+    box-shadow: 10px 5px 5px red;
+}
+.card:hover{
+    color: white;
+    cursor: pointer;
+}
+
